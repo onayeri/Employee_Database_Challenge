@@ -26,7 +26,7 @@ This data table groups the different titles and sums of the amount of retirees u
 * ### Mentorship Eligibility: 
 This table offers information on the employees who have not reached retirement. The table filters specifically for birth dates that are within the year 1965. It joins information from the employee, department employee, and titles table. 
 ---
-Summary:
+## Summary:
 
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
